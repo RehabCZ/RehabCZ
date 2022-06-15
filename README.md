@@ -20,7 +20,7 @@ I've just finished high school _(Telecommunication and Digital Technology)_ and 
 
 <!-- About me stuff -->
 
--   👨‍💻 I started coding with **PHP** than moved to other languages like **Javascript**, **Python** and lately to **Java** and **C#** that i used mostly because high school.
+-   👨‍💻 I started coding with **PHP** then moved to other languages like **Javascript**, **Python** and lately to **Java** and **C#** that i used mostly because high school.
 
 -   🎮 I love playing games especially **Minecraft** that brought me into the world of coding!
 
@@ -36,7 +36,7 @@ I've just finished high school _(Telecommunication and Digital Technology)_ and 
 
 ## 𝙲𝙾𝙽𝚃𝙰𝙲𝚃
 
-**Currently i don't accept any orders or offers!**
+**Currently i don't accept any orders neither offers!**
 
 <br>
 
