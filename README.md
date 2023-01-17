@@ -4,7 +4,7 @@
 
 <p> 
 Hi my name is <b>RehabCZ</b>.<br>
-I'm 19yo boy from <i>Czech Republic</i>, that enjoys learning new stuff and aims to improve his skills in computer engineering.
+I'm 20yo boy from <i>Czech Republic</i>, that enjoys learning new stuff and aims to improve his skills in computer engineering.
 
 I've just finished high school _(Telecommunication and Digital Technology)_ and preparing myself to university _(Applied Informatics)_
 
