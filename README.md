@@ -56,12 +56,13 @@ I've just finished high school _(Telecommunication and Digital Technology)_ and 
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
 <!-- Editors & IDEs -->
 
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![PyCharm](https://img.shields.io/badge/PyCharm-3CB371?style=flat-square&logo=pycharm)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=vscodium&logoColor=ffffff)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-b443f1?style=flat-square&logo=phpstorm)
+![WebStorm](https://img.shields.io/badge/WebStorm-00ced8?style=flat-square&logo=webstorm)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-800080.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 
 <!-- Operating Systems -->
